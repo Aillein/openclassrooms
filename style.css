@@ -1,10 +1,24 @@
+@font-face {
+    font-family: 'alegreyaregular';
+    src: url('alegreya-regular-webfont.woff2') format('woff2'),
+         url('alegreya-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
 
+    font-family: 'andadaregular';
+    src: url('andada-regular-webfont.woff2') format('woff2'),
+         url('andada-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+    font-family: 'source_code_proregular';
+    src: url('sourcecodepro-regular-webfont.woff2') format('woff2'),
+         url('sourcecodepro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
-
-
-
+}
 
 body
 {
@@ -25,7 +39,7 @@ body
 {
     margin: 20px;
     align-self: center;
-    border-radius: 80px;
+    border-radius: 50%;
     box-shadow: 2px 3px 5px grey;
 
     height: 160px;
@@ -88,7 +102,7 @@ body
 
 #contenucv h1
 {
-    
+    font-family: 'source_code_proregular';
     font-size: 2.3em;
     margin-bottom:1px;
 
@@ -114,39 +128,67 @@ body
 {
     width: 100% ;
     margin-bottom: 1px;
-    border-bottom: 1px solid gold;
+    border-bottom: 1px  solid;
+    border-color: gold;
    
 }
 
 .date
 {
     font-size: 0.8em;
-    
     width: 20%;
+    margin-bottom: 5px;
+    margin-left: 0;
 
 }
 .job
 {
-    margin-top: 1em;
-    font-size: 0.8em;
-    margin-left: 50px;
-    width: 70%;
-     
+    font-weight: bold;
 }
-.job p
+.dip
 {
-    margin: 5px;
+    font-size: 0.9em;
+    width:90%;
+    margin-bottom: 15px; 
+    margin-left: 100px;
+    list-style-type: none;
 }
 
-.xp
+.xp li, .xp
 {
     display: flex;
-    flex-direction: row;
+    flex-direction: row; 
     
 }
 
+.xp ul, .xp li
+{
+    padding-left: 0;
+}
+.xp p
+{
+    margin: 7px;
+}
+
+.xps
+{   
+    border-top: 1px solid;
+    border-color: gold;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+}
+.xp1 li, .xp2 li
+{
+    list-style-type: none;
+    font-size: 0.8em;
+}
+
+
+
 .comp
 {
+    list-style-type: none;
     display: flex;
     flex-direction: row;
    
@@ -159,7 +201,7 @@ body
     font-size: 1.8em;
 }
 
-.fa-university , .fa-briefcase, .fa-calendar-alt
+.fa-graduation-cap, .fa-briefcase, .fa-calendar-alt
 {
     color:gold;
     margin-right: 25px;
@@ -167,5 +209,15 @@ body
 }
 .fa-dot-circle
 {
-    font-size: 0.5em;
+    color:gold;
+    font-size: 0.7em;
+   
 }
+
+.fa-circle-notch
+{
+    color: gold;
+    font-size: 0.7em;
+    margin-right: 10px;
+}
+
