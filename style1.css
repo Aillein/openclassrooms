@@ -1,0 +1,18 @@
+@media all and (max-device-width: 1260px)
+{
+
+body
+	{
+	width: auto;
+	height: auto;
+	}
+
+.cv
+	{
+		display: flex;
+		flex-direction: column;
+	
+	}
+
+
+}
