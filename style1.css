@@ -1,18 +1,25 @@
-@media all and (max-device-width: 1260px)
+@media screen and (max-width: 1260px)
 {
 
-body
-	{
-	width: auto;
-	height: auto;
-	}
-
 .cv
-	{
-		display: flex;
-		flex-direction: column;
+{
+	flex-direction: column;
 	
-	}
+
+}
+.myslef
+{
+	flex-grow: none;
+}
+
+
+#contenucv
+{
+
+	margin-left:10px;
+	
+}
+
 
 
 }
