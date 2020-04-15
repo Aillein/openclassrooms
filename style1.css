@@ -20,6 +20,31 @@
 	
 }
 
+#contenucv h1
+{
+   
+    text-align: center; 
+    font-size: 2em;
+   
+
+}
+ #contenucv h2
+ {
+ 	text-align: center;
+
+ }
+ #contenucv h3
+{
+	font-size: 1.5em;
+
+}
+
+
+.skills
+{
+	flex-direction: column;
+	font-size: 0.9em;
+}
 
 
 }
