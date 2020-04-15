@@ -1,0 +1,58 @@
+@media screen and (max-width: 1260px)
+{
+
+body
+{
+	width: auto;
+}
+
+.cv
+{
+	flex-direction: column;
+	
+
+}
+.myslef
+{
+	flex-grow: none;
+}
+
+
+#contenucv
+{
+
+	margin-left: 7px;
+	
+}
+
+#contenucv h1
+{
+   
+    text-align: center; 
+    font-size: 2em;
+   
+
+}
+ 
+ #contenucv h2
+ {
+ 	text-align: center;
+
+ }
+
+ #contenucv h3
+{
+	font-size: 1.5em;
+
+}
+
+
+
+.skills
+{
+	flex-direction: column;
+	font-size: 0.9em;
+}
+
+
+}
