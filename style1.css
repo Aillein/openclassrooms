@@ -1,30 +1,31 @@
 @media screen and (max-width: 1260px)
 
 
-	{
-
-.cv
 {
+
+	.cv
+	{
 	flex-direction: column;
 	
 
-}
+	}
+	
 
-#contenucv
-{
+	#contenucv
+	{
 
 	margin-left: 7px;
 	
-}
+	}
 
-#contenucv h1
-{
+	#contenucv h1
+	{
    
      
     font-size: 2em;
    
 
-}
+	}
  
  
  
