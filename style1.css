@@ -3,11 +3,6 @@
 
 	{
 
-body
-{
-	width: auto;
-}
-
 .cv
 {
 	flex-direction: column;
@@ -30,34 +25,38 @@ body
 #contenucv h1
 {
    
-    text-align: center; 
+     
     font-size: 2em;
    
 
 }
  
- #contenucv h2
- {
- 	text-align: center;
-
- }
-
+ 
+ 
  #contenucv h3
 {
-	font-size: 1.2em;
-	margin-bottom: none;
+	font-size: 1em;
+	margin-bottom: 20px;
 
 }
 
-
+.titre
+{
+	font-size: 1em;
+	
+}
 
 .skills
 {
 	flex-direction: column;
 	font-size: 0.9em;
+
 }
 
-
+.know p
+{
+	margin:3px;
+}
 
 
 
