@@ -134,6 +134,7 @@ a:focus
 
 .Banner
 {
+    max-width: 500px;
     display: flex;
     flex-direction: column;
     background-color: #68954b;
@@ -154,7 +155,7 @@ a:focus
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    flex-grow: 1;
+    margin-bottom: 20px;
 }
 
 .contact p
@@ -259,7 +260,7 @@ a:focus
 
 
 
-.skills
+.reco
 {
    display: flex;
    flex-direction: row;
