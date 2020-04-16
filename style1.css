@@ -16,6 +16,7 @@
 	
 	}
 
+	
 	#contenucv h1
 	{
    
@@ -33,6 +34,7 @@
 		margin-bottom: 20px;
 
 	}
+	
 	.dip 
 	{
 		margin-left: 0;
@@ -51,8 +53,8 @@
 		flex-direction: column;
 		font-size: 0.9em;
 		margin: 10px;
-
 	}
+
 	.know
 	{
 		margin-bottom: 10px;

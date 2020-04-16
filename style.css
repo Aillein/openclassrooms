@@ -63,9 +63,6 @@
 
 
 
-
-
-
 /* config generale */
 
 body
@@ -96,6 +93,12 @@ a:hover
 a:focus
 {
     color: black;
+}
+a:visited
+{
+    color: black;
+    font-weight: bold;
+
 }
 
 
@@ -155,7 +158,7 @@ a:focus
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-bottom: 20px;
+    margin-bottom: 90px;
 }
 
 .contact p
@@ -238,6 +241,10 @@ a:focus
     margin-left: 110px;
     list-style-type: none;
     
+}
+.xp
+{
+    margin-bottom: 20px;
 }
 
 .xp li
