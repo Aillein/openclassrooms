@@ -55,12 +55,18 @@
 		margin: 10px;
 	}
 
+	.know:hover
+	{
+		border-radius: 3px;
+		box-shadow: -1px -2px 5px grey;
+	}
+
 	.know
 	{
 		margin-bottom: 10px;
 	}
 
-
+	
 	.know p
 	{
 		margin:3px;
