@@ -1,68 +1,67 @@
-@media screen and (max-width: 1260px)
-{
+@media screen and (max-width: 1260px) {
+	
+	.contact{
+		font-size: 1.2em;
+		font-family: 'castamereregular';
+	}
 
-	.cv
-	{
+	.myself {
+
+		font-size: 1.3em;
+		font-weight: bold;
+	}
+
+	.cv {
 		flex-direction: column;
 	
 
 	}
 	
 
-	#contenucv
-	{
-
+	#contenucv {
 		margin-left: 7px;
 	
 	}
 
 	
-	#contenucv h1
-	{
-   
-     
-    	font-size: 2em;
+	#contenucv h1 { 
+       	font-size: 2em;
    
 
 	}
  
  
  
-	 #contenucv h3
-	{
+	 #contenucv h3 {
 		font-size: 1em;
 		margin-bottom: 20px;
 
 	}
 	
-	.dip 
-	{
+	.dip {
 		margin-left: 0;
 
 	}	
 
+	
 
-	.titre
-	{
+	.titre {
 		font-size: 1em;
 	
 	}
 
-	.reco
-	{
+	.reco {
 		flex-direction: column;
 		font-size: 0.9em;
 		margin: 10px;
 	}
 
-	.know
-	{
+	.know {
 		margin-bottom: 10px;
 	}
 
 	
-	.know p
-	{
+	.know p {
 		margin:3px;
 	}
 

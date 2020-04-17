@@ -32,26 +32,22 @@
 
 /* fonts  fontawesome (https://fontawesome.com) great thanks to them.*/
 
-.fa-snowboarding,.fa-music,.fa-hiking
-{
+.fa-snowboarding,.fa-music,.fa-hiking {
     font-size: 2em;
 }
 
-.fa-university, .fa-briefcase, .fa-calendar-alt
-{
+.fa-university, .fa-briefcase, .fa-calendar-alt {
     color:#68954b;
     margin-right: 25px;
     
 }
-.fa-dot-circle
-{
+.fa-dot-circle {
     color:#68954b;
     margin-right: 10px;
    
 }
 
-.fa-circle-notch
-{
+.fa-circle-notch {
     color: #68954b;
     font-size: 0.7em;
     margin-right: 10px;
@@ -64,8 +60,7 @@
 
 /* config generale */
 
-body
-{
+body {
     background: url('images/fond_jaune.png') fixed;
     font-family: 'goldengroveregular','Trebuchet MS', Arial, sans-serif;
     color: #5e645a;
@@ -75,26 +70,23 @@ body
 
 }
 
-a
-{
+a {
     color: white;
     text-decoration: none;
     
 }
 
-a:hover
-{
+a:hover {
     text-decoration: underline;
     color: black;
     text-shadow: 3px 4px 5px grey;
 }
 
-a:focus
-{
+a:focus {
     color: black;
 }
-a:visited
-{
+
+a:visited {
     color: black;
     font-weight: bold;
 
@@ -104,15 +96,13 @@ a:visited
 
 /* corps du cv */
 
-.cv
-{
+.cv {
     
     display: flex;
     flex-direction: row;
 }
 
-.Banner img
-{
+.Banner img {
     margin: 40px;
     align-self: center;
     border-radius: 50%;
@@ -125,8 +115,7 @@ a:visited
 
 
 
-.Banner h3
-{
+.Banner h3 {
     border: 10px solid #68954b;
     background-color: white;
     color: #68954b;
@@ -134,24 +123,21 @@ a:visited
 
 }
 
-.Banner
-{
+.Banner {
     max-width: 500px;
     display: flex;
     flex-direction: column;
     background-color: #68954b;
     
 }
-.myself
-{
+.myself {
     padding: 15px;
     text-align: justify;
     color: white;
     flex-grow: 2;
 }
 
-.hobbies
-{
+.hobbies {
     font-size: 1.3em;
     color: white;
     display: flex;
@@ -160,49 +146,40 @@ a:visited
     margin-bottom: 90px;
 }
 
-.contact p
-
-
-{  
+.contact p {  
     margin-left: 20%;
     color: white;
     
 }
 
-#style
-{
+#style {
     text-decoration: underline;
     text-decoration-color: #68954b;
 }
 
 
-#prenom
-{
+#prenom {
     color: #68954b;
 }
 
-#contenucv h1
-{
+#contenucv h1 {
     font-family: 'castamereregular';
     font-size: 3em;
     margin-bottom:1px;
 
 }
 
-#contenucv h3
-{
+#contenucv h3 {
     font-family: 'dragonstoneregular';
     margin-top: 0px;
     margin-bottom: 150px;
 }
 
-#contenucv h2
-{
+#contenucv h2 {
     font-family: 'goldengroveregular';
 }
 
-#contenucv
-{
+#contenucv {
     margin-left: 90px;
     display: flex;
     flex-direction: column;
@@ -211,8 +188,7 @@ a:visited
     
 }
 
-.titre
-{
+.titre {
     width: 90%;
     margin-bottom: 1px;
     border-bottom: 1px  solid;
@@ -220,21 +196,18 @@ a:visited
    
 }
 
-.date
-{
+.date {
     font-size: 0.8em;
     width: 200px;
     margin-bottom: 5px;
     margin-left: 0;
 
 }
-.job
-{
+.job {
     margin: 60px;
     font-weight: bold;
 }
-.dip
-{
+.dip {
     font-size: 0.9em;
     width: 500px;
     margin-bottom: 15px; 
@@ -242,43 +215,38 @@ a:visited
     list-style-type: none;
     
 }
-.xp
-{
+.xp {
     margin-bottom: 20px;
 }
 
-.xp li
-{
+.xp li {
     display: flex;
     flex-direction: row;
      
     
 }
 
-.xp ul, .xp li
-{
+.xp ul, .xp li {
     padding-left: 0;
 }
 
-.xp p
-{
+.xp p {
     margin: 0.4em;
 }
 
 
 
-.reco
-{
+.reco {
    display: flex;
    flex-direction: row;
     
 }
-.know
-{
+
+.know {
     padding-right: 17%;
 }
-.know a
-{
+
+.know a {
 
     color: #5e645a;
 }
