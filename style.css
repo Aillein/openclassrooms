@@ -34,6 +34,7 @@
 
 .fa-snowboarding,.fa-music,.fa-hiking {
     font-size: 2em;
+
 }
 
 .fa-university, .fa-briefcase, .fa-calendar-alt {
@@ -51,6 +52,7 @@
     color: #68954b;
     font-size: 0.7em;
     margin-right: 10px;
+
 }
 
 
@@ -65,8 +67,6 @@ body {
     font-family: 'goldengroveregular','Trebuchet MS', Arial, sans-serif;
     color: #5e645a;
  	margin: auto;
-    
-
 
 }
 
@@ -80,10 +80,12 @@ a:hover {
     text-decoration: underline;
     color: black;
     text-shadow: 3px 4px 5px grey;
+
 }
 
 a:focus {
     color: black;
+
 }
 
 a:visited {
@@ -100,6 +102,7 @@ a:visited {
     
     display: flex;
     flex-direction: row;
+
 }
 
 .Banner img {
@@ -130,11 +133,13 @@ a:visited {
     background-color: #68954b;
     
 }
+
 .myself {
     padding: 15px;
     text-align: justify;
     color: white;
     flex-grow: 2;
+
 }
 
 .hobbies {
@@ -144,6 +149,7 @@ a:visited {
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 90px;
+
 }
 
 .contact p {  
@@ -155,11 +161,13 @@ a:visited {
 #style {
     text-decoration: underline;
     text-decoration-color: #68954b;
+
 }
 
 
 #prenom {
     color: #68954b;
+
 }
 
 #contenucv h1 {
@@ -173,10 +181,12 @@ a:visited {
     font-family: 'dragonstoneregular';
     margin-top: 0px;
     margin-bottom: 150px;
+
 }
 
 #contenucv h2 {
     font-family: 'goldengroveregular';
+
 }
 
 #contenucv {
@@ -203,10 +213,13 @@ a:visited {
     margin-left: 0;
 
 }
+
 .job {
     margin: 60px;
     font-weight: bold;
+
 }
+
 .dip {
     font-size: 0.9em;
     width: 500px;
@@ -217,6 +230,7 @@ a:visited {
 }
 .xp {
     margin-bottom: 20px;
+
 }
 
 .xp li {
@@ -228,10 +242,12 @@ a:visited {
 
 .xp ul, .xp li {
     padding-left: 0;
+
 }
 
 .xp p {
     margin: 0.4em;
+
 }
 
 
@@ -244,11 +260,13 @@ a:visited {
 
 .know {
     padding-right: 17%;
+
 }
 
 .know a {
 
     color: #5e645a;
+
 }
 
 
