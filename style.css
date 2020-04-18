@@ -66,7 +66,7 @@ body {
     background: url('images/fond_jaune.png') fixed;
     font-family: 'goldengroveregular','Trebuchet MS', Arial, sans-serif;
     color: #5e645a;
- 	margin: auto;
+ 	margin:0;
 
 }
 
@@ -127,7 +127,6 @@ a:visited {
 }
 
 .Banner {
-    
     display: flex;
     flex-direction: column;
     background-color: #68954b;
