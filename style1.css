@@ -1,6 +1,12 @@
-@media screen and (max-width: 1360px) {
+@media screen and (max-width: 1024px) {
 	
-	.contact{
+
+	.banner{
+		
+		width:100%;
+	}
+
+	.contact {
 		font-size: 1.2em;
 		font-family: 'castamereregular';
 	}
@@ -19,8 +25,8 @@
 	
 
 	#contenucv {
-		margin-left: 7px;
-	
+		margin: 5px;
+		
 	}
 
 	

@@ -127,7 +127,7 @@ a:visited {
 }
 
 .Banner {
-    max-width: 500px;
+    
     display: flex;
     flex-direction: column;
     background-color: #68954b;
@@ -186,7 +186,7 @@ a:visited {
 
 #contenucv h2 {
     font-family: 'goldengroveregular';
-
+    width:100%;
 }
 
 #contenucv {
