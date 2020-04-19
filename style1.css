@@ -1,11 +1,8 @@
 @media screen and (max-width: 1024px) {
 	
 
-	.banner{
-		min-width: 100%;
-		margin-right: 0;
-
-
+	.banner {
+		width: 100%;
 	}
 
 	.contact {
@@ -14,15 +11,12 @@
 	}
 
 	.myself {
-
 		font-size: 1.3em;
 		font-weight: bold;
 	}
 
 	.cv {
 		flex-direction: column;
-	
-
 	}
 	
 
@@ -34,28 +28,23 @@
 	
 	#contenucv h1 { 
        	font-size: 2em;
-   
-
-	}
+   	}
  
  
  
 	 #contenucv h3 {
 		font-size: 1em;
 		margin-bottom: 20px;
-
 	}
 	
 	.dip {
 		margin-left: 0;
-
 	}	
 
 	
 
 	.titre {
 		font-size: 1em;
-	
 	}
 
 	.reco {

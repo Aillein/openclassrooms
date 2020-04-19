@@ -67,7 +67,6 @@ body {
     font-family: 'goldengroveregular','Trebuchet MS', Arial, sans-serif;
     color: #5e645a;
  	margin: auto;
-
 }
 
 a {
@@ -127,7 +126,6 @@ a:visited {
 }
 
 .Banner {
-    
     display: flex;
     flex-direction: column;
     background-color: #68954b;
@@ -186,14 +184,14 @@ a:visited {
 
 #contenucv h2 {
     font-family: 'goldengroveregular';
-    width:99%;
+    width: 95%;
 }
 
 #contenucv {
     margin-left: 90px;
     display: flex;
     flex-direction: column;
-    width : 100%;
+    width : 95%;
     
     
 }
