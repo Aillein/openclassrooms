@@ -149,7 +149,7 @@ a:visited {
 }
 
 .contact p {  
-    margin-left: 20%;
+    margin-left: 15%;
     color: white;
     
 }
@@ -176,7 +176,7 @@ a:visited {
 #contenucv h3 {
     font-family: 'dragonstoneregular';
     margin-top: 0px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 }
 
@@ -186,7 +186,7 @@ a:visited {
 }
 
 #contenucv {
-    margin-left: 100px;
+    margin-left: 50px;
     display: flex;
     flex-direction: column;
     width : 90%;
