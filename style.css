@@ -109,7 +109,6 @@ a:visited {
     align-self: center;
     border-radius: 50%;
     box-shadow: 5px 3px 5px grey;
-    
     height: 200px;
     width: 200px;
 
@@ -129,7 +128,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     background-color: #68954b;
-    
+    max-width: 20%;
 }
 
 .myself {
