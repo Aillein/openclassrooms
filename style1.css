@@ -2,7 +2,8 @@
 	
 
 	.banner {
-		width:100%;
+		width: 100%;
+
 	}
 
 	.contact {
@@ -22,6 +23,7 @@
 
 	#contenucv {
 		margin: 5px;
+		width: 90%;
 		
 	}
 
