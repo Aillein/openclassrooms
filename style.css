@@ -127,7 +127,6 @@ a:visited {
 }
 
 .Banner {
-    max-width: 500px;
     display: flex;
     flex-direction: column;
     background-color: #68954b;
@@ -193,7 +192,7 @@ a:visited {
     margin-left: 90px;
     display: flex;
     flex-direction: column;
-    width : 100%;
+    width : 95%;
     
     
 }
