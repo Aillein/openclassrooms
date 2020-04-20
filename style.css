@@ -127,7 +127,7 @@ a:visited {
 .Banner {
     display: flex;
     flex-direction: column;
-    background-color: #68954b; 
+    background-color: #68954b;
 }
 
 .myself {
@@ -135,7 +135,6 @@ a:visited {
     text-align: justify;
     color: white;
     flex-grow: 1;
-
 }
 
 .hobbies {
