@@ -104,7 +104,7 @@ a:visited {
 
 }
 
-.Banner img {
+.banner img {
     margin: 20px;
     align-self: center;
     border-radius: 50%;
@@ -114,9 +114,7 @@ a:visited {
 
 }
 
-
-
-.Banner h3 {
+.banner h3 {
     border: 10px solid #68954b;
     background-color: white;
     color: #68954b;
@@ -124,10 +122,11 @@ a:visited {
 
 }
 
-.Banner {
+.banner {
     display: flex;
     flex-direction: column;
     background-color: #68954b;
+    max-width: 460px;
 }
 
 .myself {
