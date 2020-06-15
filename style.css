@@ -108,7 +108,7 @@ a:visited {
     margin: 20px;
     align-self: center;
     border-radius: 50%;
-    box-shadow: 5px 3px 5px grey;
+    box-shadow: -5px -3px 5px grey;
     height: 200px;
     width: 200px;
 
