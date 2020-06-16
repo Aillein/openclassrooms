@@ -142,7 +142,7 @@ a:visited {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-bottom: 90px;
+    margin-bottom: 200px;
 
 }
 
@@ -253,7 +253,7 @@ a:visited {
 }
 
 .know {
-    padding-right: 17%;
+    margin-bottom: 5%;
 
 }
 
