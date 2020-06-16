@@ -153,8 +153,8 @@ a:visited {
 }
 
 #style {
-    text-decoration: underline;
-    text-decoration-color: #68954b;
+    text-decoration: underline  #68954b;
+    
 
 }
 
@@ -253,7 +253,7 @@ a:visited {
 }
 
 .title{
-    text-decoration: underline grey;
+    text-decoration: underline #68954b;
 }
 
 .know {
