@@ -65,7 +65,7 @@
 body {
     background: url('images/fond_jaune.png') fixed;
     font-family: 'goldengroveregular','Trebuchet MS', Arial, sans-serif;
-    color: #5e645a;
+    color: #292c25;
  	margin: auto;
 }
 
@@ -126,7 +126,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     background-color: #68954b;
-    max-width: 460px;
+    max-width: 480px;
 }
 
 .myself {
@@ -147,7 +147,7 @@ a:visited {
 }
 
 .contact p {  
-    margin-left: 15%;
+    margin-left: 17%;
     color: white;
     
 }
@@ -252,16 +252,16 @@ a:visited {
     
 }
 
+.title{
+    text-decoration: underline grey;
+}
+
 .know {
+    padding-right: 40px;
     margin-bottom: 5%;
 
 }
 
-.know a {
-
-    color: #5e645a;
-
-}
 
 
 
