@@ -116,6 +116,7 @@ a:visited {
 
 .banner h3 {
     border: 10px solid #68954b;
+    border-radius: 5%;
     background-color: white;
     color: #68954b;
     text-align: center;
